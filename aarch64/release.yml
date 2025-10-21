@@ -1,6 +1,0 @@
-name: MayAPI Repo
-archs:
-  - aarch64
-description: Un repositorio Termux que contiene el paquete MayAPI CLI.
-maintainer: SoyMaycol <soymaycol.cn@gmail.com>
-version: 1.0
