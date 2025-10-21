@@ -1,0 +1,4 @@
+Codename: stable
+Architectures: aarch64
+Components: main
+Description: Repo de Termux con MayAPI CLI
